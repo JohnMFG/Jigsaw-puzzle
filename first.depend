@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1640880935 source:c:\users\john\desktop\it\it 2021\windows api\first\main.cpp
+	<tchar.h>
+	<windows.h>
+	"menu.h"
+	<commctrl.h>
+	<wchar.h>
+	<string.h>
+	<iostream>
+	<io.h>
+	<fcntl.h>
+
+1638971693 source:c:\users\john\desktop\it\it 2021\windows api\first\menu.rc
+	"menu.h"
+
+1640874045 c:\users\john\desktop\it\it 2021\windows api\first\menu.h
+	<windows.h>
+
+1655490814 source:c:\users\john\desktop\it\it 2021\windows api\delione\main.cpp
+	<tchar.h>
+	<windows.h>
+	"menu.h"
+	<commctrl.h>
+	<wchar.h>
+	<string.h>
+	<iostream>
+	<io.h>
+	<fcntl.h>
+
+1640877645 c:\users\john\desktop\it\it 2021\windows api\delione\menu.h
+	<windows.h>
+
+1638975293 source:c:\users\john\desktop\it\it 2021\windows api\delione\menu.rc
+	"menu.h"
+
